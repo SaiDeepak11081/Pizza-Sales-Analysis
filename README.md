@@ -40,10 +40,10 @@ It includes a **SQL script**, a **presentation (PDF)**, and a **detailed Word re
 
 ## 📑 Dataset
 Dataset contains:
-- **Orders**(https://github.com/SaiDeepak11081/Pizza-Hut-Sales-Analysis/blob/main/orders.csv) → Dates & times of orders.
-- **Order Details**(https://github.com/SaiDeepak11081/Pizza-Hut-Sales-Analysis/blob/main/order_details.csv) → Pizza IDs & quantities.
-- **Pizzas**(https://github.com/SaiDeepak11081/Pizza-Hut-Sales-Analysis/blob/main/pizzas.csv) → Size & price.
-- **Pizza Types**(https://github.com/SaiDeepak11081/Pizza-Hut-Sales-Analysis/blob/main/pizza_types.csv) → Pizza name & category.
+- [**Orders**](https://github.com/SaiDeepak11081/Pizza-Hut-Sales-Analysis/blob/main/orders.csv) → Dates & times of orders.
+- [**Order Details**](https://github.com/SaiDeepak11081/Pizza-Hut-Sales-Analysis/blob/main/order_details.csv) → Pizza IDs & quantities.
+- [**Pizzas**](https://github.com/SaiDeepak11081/Pizza-Hut-Sales-Analysis/blob/main/pizzas.csv) → Size & price.
+- [**Pizza Types**](https://github.com/SaiDeepak11081/Pizza-Hut-Sales-Analysis/blob/main/pizza_types.csv) → Pizza name & category.
 
 ---
 
