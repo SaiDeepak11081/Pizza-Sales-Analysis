@@ -9,8 +9,7 @@ It includes a **SQL script**, a **presentation (PDF)**, and a **detailed Word re
 ## 📂 Files in This Repository
 - **`Pizza_Hut_Sql_Analysis.sql`** → SQL script with all queries and comments.
 - **`Pizza_Hut_Presentation.pdf`** → Summary of findings in presentation format.
-- **`Pizza_Hut_Report.docx`** → Detailed written report with analysis and results.
-- *(Optional)* `images/` → Screenshots of SQL query outputs.
+- **`Pizza_Hut_Report.docx`** → Detailed written report with analysis and results
 
 ---
 
